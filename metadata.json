@@ -1,5 +1,7 @@
 {
   "name": "AlkoCoin",
   "symbol": "KYCIA",
-  "uri": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/metadata.json"
+  "description": "Wymien wodke na tokeny",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
+
