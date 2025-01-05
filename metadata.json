@@ -1,7 +1,6 @@
 {
-  "name": "AlkoCoin",
-  "symbol": "KYCIA",
-  "description": "Wymien wodke na tokeny",
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
-
