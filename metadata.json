@@ -2,11 +2,5 @@
   "name": "AlkoCoin",
   "symbol": "KYCIA",
   "uri": "https://raw.githubusercontent.com/KK2K15/tokenmeta/main/metadata.json",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "38DMbni5Ksz31jiGiaWqpXUwgxGyTjE4oeAqwrR35mRH",
-      "verified": true,
-      "share": 100
-    }
-  ]
+
+}
