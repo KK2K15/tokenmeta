@@ -1,12 +1,12 @@
 {
-    "name": "AlkoCoin",
-    "symbol": "KYCA",
-    "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Compressed Coil"
-      }
-    ]
-  }
+  "name": "AlkoCoin",
+  "symbol": "KYCIA",
+  "uri": "https://raw.githubusercontent.com/KK2K15/tokenmeta/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "TwójAdresPortfela",
+      "verified": true,
+      "share": 100
+    }
+  ]
